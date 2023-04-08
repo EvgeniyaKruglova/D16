@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-01 16:42+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\news\views.py:142
+msgid "Hello world"
+msgstr "Привет мир"
+
+#: .\templates\flatpages\default.html:58
+msgid "Welcome to Blog Post!"
+msgstr "Добро пожаловать в Блог!"
+
+#: .\templates\flatpages\default.html:73
+msgid ""
+"The universe is large and old, and the ingredients for life as we know it "
+"are everywhere, so there's no reason to think that Earth would be unique in "
+"that regard. Whether of not the life became intelligent is a different "
+"question, and we'll see if we find that"
+msgstr ""
+
+#: .\templates\flatpages\default.html:74
+msgid ""
+"If you get asteroids about a kilometer in size, those are large enough and "
+"carry enough energy into our system to disrupt transportation, "
+"communication, the food chains, and that can be a really bad day on Earth"
+msgstr ""
+"Если вы получаете астероиды размером около километра, то они достаточно "
+"велики и доставлять в нашу систему достаточно энергии, чтобы нарушить "
+"транспортировку связь, пищевые цепочки, и это может быть действительно "
+"плохим днем на Земле."
+
+#: .\templates\flatpages\default.html:75
+msgid "I have odd cosmic thoughts every day"
+msgstr "Каждый день меня посещают странные космические мысли."
+
+#: .\templates\flatpages\default.html:76
+msgid ""
+"For me, the most fascinating interface is Twitter. I have odd cosmic "
+"thoughts every day and I realized I could hold them to myself or share them "
+"with people who might be interested"
+msgstr ""
+"Для меня самый увлекательный интерфейс - это Twitter. У меня странные "
+"космические мысли каждый день, и я понял, что могу держать их при себе или "
+"делиться ими с людьми, которые могут быт интересны."
+
+#: .\templates\flatpages\default.html:77
+msgid ""
+"Venus has a runaway greenhouse effect. I kind of want to know what happened "
+"there because we're twirling knobs here on Earth without knowing the "
+"consequences of it. Mars once had running water. It's bone dry today. "
+"Something bad happened there as well"
+msgstr ""
+"На Венере наблюдается безудержный парниковый эффект. Я вроде как хочу знать, "
+"что произошло.Это потому, что мы крутим ручки здесь, на Земле, не знаяо "
+"последствиях этого. Когда-то на Марсе была проточная вода. Сегодня здесь "
+"сухо до костей.Там тоже случилось что-то плохое."
+
+#: .\templates\index.html:29
+msgid "Check out my new cool translation"
+msgstr "Зацени мой крутой перевод"
